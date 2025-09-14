@@ -18,7 +18,7 @@ async function handleRequest(request) {
   }
 
   // send to Graylog
-  await fetch("https://graylog.example.com:12201/gelf", {
+  await fetch("https://logs.sheflabs.com:12201/gelf", {
     method: "POST",
     headers: { "Content-Type": "application/json" },
     body: JSON.stringify(log)
