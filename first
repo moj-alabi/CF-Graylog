@@ -1,0 +1,6 @@
+
+It seems you are starting Graylog for the first time. To set up a fresh install, a setup interface has
+been started. You must log in to it to perform the initial configuration and continue.
+
+Initial configuration is accessible at 0.0.0.0:9000, with username 'admin' and password 'NEOwuMelBi'.
+Try clicking on http://admin:NEOwuMelBi@0.0.0.0:9000
